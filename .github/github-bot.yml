@@ -1,16 +1,13 @@
-new-pull-requests:
-  project-board:
-    name: 'Pipeline for QA'
-    review-column-name: 'REVIEW'
+bounty-project-board:
+  name: 'Status SOB Swarm'
+  awaiting-approval-label-name: 'bounty-awaiting-approval'
+  bounty-label-name: 'bounty'
+  awaiting-approval-column-name: 'bounty-awaiting-approval'
+  owner: 'andytudhope'
 
-  welcome-bot:
-    message: 'Thanks for making your first PR here!'
-
-bounty-awaiting-approval:
-  project-board:
-    name: 'Status SOB Swarm'
-    approval-column-name: 'bounty-awaiting-approval'
+welcome-bot:
+  message: 'Thanks for making your first PR here!'
 
 slack:
   notification:
-    room: 'status-hubot'
+    room: 'status-probot'
