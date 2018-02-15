@@ -6,7 +6,7 @@ bounty-project-board:
   owner: 'andytudhope'
 
 welcome-bot:
-  message-template: 'Hey @{name}, thanks for making your first pull request in {repo-name}! :heart:'
+  message-template: 'Hey @{user}, thanks for making your first pull request in {repo-name}! :heart:'
 
 slack:
   notification:
