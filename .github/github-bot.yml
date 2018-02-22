@@ -3,6 +3,7 @@ bounty-project-board:
   awaiting-approval-label-name: 'bounty-awaiting-approval'
   bounty-label-name: 'bounty'
   awaiting-approval-column-name: 'bounty-awaiting-approval'
+  post-approved-bounties-to-slack-room: 'openbounty-riot'
   owner: 'andytudhope'
 
 welcome-bot:
