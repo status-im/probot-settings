@@ -2,6 +2,7 @@ bounty-project-board:
   name: 'Status SOB Swarm'
   awaiting-approval-label-name: 'bounty-awaiting-approval'
   bounty-label-name: 'bounty'
+  bounty-size-label-name-regex: 'bounty-(\w+)'
   awaiting-approval-column-name: 'bounty-awaiting-approval'
   post-approved-bounties-to-slack-room: 'openbounty-riot'
   owner: 'andytudhope'
