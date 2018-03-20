@@ -4,8 +4,8 @@ bounty-project-board:
   bounty-size-label-name-regex: 'bounty-([a-zA-Z0-9]+)'
   awaiting-approval-label-name: 'bounty-awaiting-approval'
   awaiting-approval-column-name: 'bounty-awaiting-approval'
-  bounty-bug-label-name: 'bounty-bug'
-  bounty-bug-column-name: 'bounty-bug'
+  bounty-bug-label-name: 'bug-bounty'
+  bounty-bug-column-name: 'bug-bounty'
   post-approved-bounties-to-slack-room: 'openbounty-riot'
   owner: 'andytudhope'
 
