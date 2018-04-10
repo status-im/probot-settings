@@ -11,6 +11,10 @@ bounty-project-board:
 
 welcome-bot:
   message-template: 'Hey @{user}, thanks for making your first pull request in {repo-name}! :heart:'
+  slack-recipients:
+    - Lalo
+    - hadi
+    - rachel
 
 slack:
   notification:
